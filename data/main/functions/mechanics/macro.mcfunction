@@ -1,0 +1,1 @@
+$execute align xyz run summon block_display ~ ~ ~ {Tags:[north, new], block_state:{Name:"$(id)", Properties:{type:"bottom"}}, transformation:[0.0000f,0.0000f,1.0000f,0.0000f,1.0000f,-0.0000f,0.0000f,0.0000f,0.0000f,1.0000f,0.0000f,0.0000f,0.0000f,0.0000f,0.0000f,1.0000f]}

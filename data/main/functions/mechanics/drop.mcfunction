@@ -1,0 +1,1 @@
+$summon item ~ ~ ~ {Item:{id:"$(drop)",Count:1b}}
